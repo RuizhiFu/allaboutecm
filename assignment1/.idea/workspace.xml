@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c883e039-e659-4a05-a9fd-48a5b9ae05bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/allaboutecm/model/MusicalInstrumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/allaboutecm/model/MusicianInstrumentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicalInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicalInstrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicianInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicianInstrument.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.MusicalInstrumentTest">
-    <configuration name="MusicalInstrumentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MusicalInstrumentTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="allaboutecm" />
       <extension name="coverage">
         <pattern>
@@ -133,7 +129,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MusicalInstrumentTest" />
         <item itemvalue="JUnit.MusicianInstrumentTest" />
         <item itemvalue="JUnit.MusicianInstrumentTest.shouldConstructMusicianInstrument" />
         <item itemvalue="JUnit.MusicianInstrumentTest.sameNameMeansSameMusicalInstrument" />
@@ -152,12 +147,24 @@
       <option name="presentableId" value="Default" />
       <updated>1586761440484</updated>
       <workItem from="1586761443902" duration="3903000" />
-      <workItem from="1587035681281" duration="19536000" />
+      <workItem from="1587035681281" duration="20012000" />
     </task>
+    <task id="LOCAL-00001" summary="two classes test">
+      <created>1587105805269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587105805269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="two classes test" />
+    <option name="LAST_COMMIT_MESSAGE" value="two classes test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#Project_Structure" timestamp="1586761488875">
