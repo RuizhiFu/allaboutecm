@@ -168,6 +168,7 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586765860629" />
+<<<<<<< HEAD
     <state x="251" y="38" key="CommitChangelistDialog2" timestamp="1587105805039">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
@@ -179,6 +180,13 @@
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1587105881349" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587103324410" />
     <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1587105881348">
+=======
+    <state x="256" y="40" key="CommitChangelistDialog2" timestamp="1587106933756">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="256" y="40" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1587106933756" />
+    <state x="580" y="336" key="Github.ShareDialog" timestamp="1587106863566">
+>>>>>>> master
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587058425627" />
