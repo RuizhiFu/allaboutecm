@@ -2,6 +2,7 @@ package allaboutecm.model;
 
 import java.util.Objects;
 
+import static org.apache.commons.lang3.Validate.notBlank;
 import static org.apache.commons.lang3.Validate.notNull;
 
 /**
@@ -30,14 +31,20 @@ public class MusicianInstrument extends Entity {
     }
 
     public void setMusician(Musician musician) {
+        notNull(musician);
+
+
         this.musician = musician;
     }
+
+
 
     public MusicalInstrument getMusicalInstrument() {
         return musicalInstrument;
     }
 
     public void setMusicalInstrument(MusicalInstrument musicalInstrument) {
+        notNull(musicalInstrument);
         this.musicalInstrument = musicalInstrument;
     }
 
