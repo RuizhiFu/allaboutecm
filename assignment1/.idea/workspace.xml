@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c883e039-e659-4a05-a9fd-48a5b9ae05bf" name="Default Changelist" comment="" />
+    <list default="true" id="a9305a7e-ede1-4de0-af56-143154ea8b42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aTZFVtXwMf3am4zsBknPCxMN7j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,6 +53,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586765860629" />
+    <state x="580" y="336" key="Github.ShareDialog" timestamp="1587106863566">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="580" y="336" key="Github.ShareDialog/0.23.1440.825@0.23.1440.825" timestamp="1587106863566" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1587106750850">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1587106750850" />
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1586761446967">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -55,5 +69,19 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1586765955019" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/allaboutecm$MusicalInstrumentTest.ic" NAME="MusicalInstrumentTest Coverage Results" MODIFIED="1587105660423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/allaboutecm$AlbumUnitTest.ic" NAME="AlbumUnitTest Coverage Results" MODIFIED="1587050124393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/allaboutecm$MusicianInstrumentTest.ic" NAME="MusicianInstrumentTest Coverage Results" MODIFIED="1587105642204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/allaboutecm$MusicalInstrumentTest_musicalInstrumentNameCannotBeNull.ic" NAME="MusicalInstrumentTest.musicalInstrumentNameCannotBeNull Coverage Results" MODIFIED="1587053906462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
   </component>
 </project>
