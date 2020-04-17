@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c883e039-e659-4a05-a9fd-48a5b9ae05bf" name="Default Changelist" comment="" />
+    <list default="true" id="c883e039-e659-4a05-a9fd-48a5b9ae05bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/allaboutecm/model/MusicalInstrumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/allaboutecm/model/MusicianInstrumentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicalInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicalInstrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicianInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/allaboutecm/model/MusicianInstrument.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="216" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aTZFVtXwMf3am4zsBknPCxMN7j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -17,9 +37,109 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="allaboutecm.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MusicalInstrumentTest">
+    <configuration name="MusicalInstrumentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="allaboutecm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="allaboutecm.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="allaboutecm.model" />
+      <option name="MAIN_CLASS_NAME" value="allaboutecm.model.MusicalInstrumentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicianInstrumentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="allaboutecm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="allaboutecm.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="allaboutecm.model" />
+      <option name="MAIN_CLASS_NAME" value="allaboutecm.model.MusicianInstrumentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicianInstrumentTest.MusicalInstrumentCannotBeNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="allaboutecm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="allaboutecm.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="allaboutecm.model" />
+      <option name="MAIN_CLASS_NAME" value="allaboutecm.model.MusicianInstrumentTest" />
+      <option name="METHOD_NAME" value="MusicalInstrumentCannotBeNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicianInstrumentTest.sameNameMeansSameMusicalInstrument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="allaboutecm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="allaboutecm.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="allaboutecm.model" />
+      <option name="MAIN_CLASS_NAME" value="allaboutecm.model.MusicianInstrumentTest" />
+      <option name="METHOD_NAME" value="sameNameMeansSameMusicalInstrument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicianInstrumentTest.shouldConstructMusicianInstrument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="allaboutecm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="allaboutecm.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="allaboutecm.model" />
+      <option name="MAIN_CLASS_NAME" value="allaboutecm.model.MusicianInstrumentTest" />
+      <option name="METHOD_NAME" value="shouldConstructMusicianInstrument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MusicalInstrumentTest" />
+        <item itemvalue="JUnit.MusicianInstrumentTest" />
+        <item itemvalue="JUnit.MusicianInstrumentTest.shouldConstructMusicianInstrument" />
+        <item itemvalue="JUnit.MusicianInstrumentTest.sameNameMeansSameMusicalInstrument" />
+        <item itemvalue="JUnit.MusicianInstrumentTest.MusicalInstrumentCannotBeNull" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,6 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586761440484</updated>
       <workItem from="1586761443902" duration="3903000" />
+      <workItem from="1587035681281" duration="19536000" />
     </task>
     <servers />
   </component>
@@ -47,13 +168,67 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586765860629" />
+    <state x="251" y="38" key="CommitChangelistDialog2" timestamp="1587105805039">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="251" y="38" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1587105805039" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1587105881349">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587058425628" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1587105881349" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587103324410" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1587105881348">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587058425627" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1587105881348" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1587103324410" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1587105881347">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587058425626" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1587105881347" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1587103324409" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1587105881349">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587058425627" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1587105881349" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1587103324410" />
+    <state x="418" y="168" key="RollbackChangesDialog" timestamp="1587050620792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="418" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1587050620792" />
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1586761446967">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1586761446967" />
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587045296534">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1587045296534" />
+    <state x="421" y="234" key="git4idea.merge.GitPullDialog" timestamp="1587105851511">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="421" y="234" key="git4idea.merge.GitPullDialog/0.23.1440.825@0.23.1440.825" timestamp="1587105851511" />
     <state x="385" y="210" key="run.anything.popup" timestamp="1586765955019">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1586765955019" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/allaboutecm$MusicalInstrumentTest.ic" NAME="MusicalInstrumentTest Coverage Results" MODIFIED="1587105660423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/allaboutecm$AlbumUnitTest.ic" NAME="AlbumUnitTest Coverage Results" MODIFIED="1587050124393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/allaboutecm$MusicianInstrumentTest.ic" NAME="MusicianInstrumentTest Coverage Results" MODIFIED="1587105642204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/allaboutecm$MusicalInstrumentTest_musicalInstrumentNameCannotBeNull.ic" NAME="MusicalInstrumentTest.musicalInstrumentNameCannotBeNull Coverage Results" MODIFIED="1587053906462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>allaboutecm.model.*</FILTER>
+    </SUITE>
   </component>
 </project>
